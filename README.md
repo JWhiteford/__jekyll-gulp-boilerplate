@@ -21,5 +21,9 @@ $ gulp
 
 ## To add/do
 1. search json
-2. lightweight grid/css framework
+2. lightweight grid/css framework [possibly consisecss](http://concisecss.com/)
 3. build on html5 boilerplate
+4. sitemap.xml (auto-generating)
+5. html minification
+6. add <picture> elements w/ [picturefill](http://scottjehl.github.io/picturefill/)
+7. 
