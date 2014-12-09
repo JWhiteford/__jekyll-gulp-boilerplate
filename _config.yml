@@ -1,6 +1,6 @@
 # Site settings
-title:              jere.me
-description:        "Edmonton front-end web-developer 'jere.me'"
+title:              site title
+description:        "site description"
 logo:
 baseurl:            "" # the subpath of your site, e.g. /blog/
 url:                "http://localhost:4000" # the base hostname & protocol for your site
@@ -9,7 +9,7 @@ share:              true
 readtime:           true
 wpm:                200 # Specify the average Words per minute. If not defined, 180 will be used
 default_bg:         me.jpg
-exclude: ["node_modules", "gulpfile.js", "package.json"]
+exclude:			["node_modules", "gulpfile.js", "package.json"]
 
 # Build settings
 highlighter:        pygments
@@ -31,9 +31,9 @@ linkedin:           https://www.linkedin.com/pub/jeremy-whiteford/2a/aa8/246
 instagram:          jeremywhiteford
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-50965860-1
-google_verify:      6UQq8wzzv-HK5n_gAUg1bXy6jDM5YSCr-fX7Wi44HNE
-bing_verify:        71BD74D054DB28A1EA59D9755455FD7B
+google_analytics:   UA-00000000-1
+google_verify:
+bing_verify:
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
